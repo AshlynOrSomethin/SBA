@@ -1,3 +1,8 @@
+
+# AshlynOrSomethin Fork
+
+All that this plugin does is remove the hardcoded explosion damage
+
 # SBA 
 
 This addon is to the ScreamingBedWars Plugin made by ScreamingSandals, it's made to hypixelify certain elements of the plugin such as store,
@@ -36,7 +41,7 @@ Supported Versions: [1.9.4-1.18.2]
 
 
 ## Snapshot builds
-Tired of waiting for a newer version of SBA to release?, get the latest version from [SBA CI server](https://github.com/boiscljo/SBA/actions/workflows/gradle-publish.yml)
+Tired of waiting for a newer version of SBA to release?, get the latest version from [SBA CI server](https://github.com/AshlynOrSomethin/SBA/actions/workflows/gradle-publish.yml)
 
 ## Credits
 Special thanks to the [ScreamingSandals team](https://github.com/ScreamingSandals) and [NotFoundName](https://github.com/notfoundname) (for his XpWars addon that helped in the creation of this one). This wouldn't have been possible without them. 
